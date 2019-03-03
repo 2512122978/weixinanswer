@@ -1,0 +1,1 @@
+<template name="10bbc350"><view class="_view 10bbc350">您的得分：{{score}}</view></template>
