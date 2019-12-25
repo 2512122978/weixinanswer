@@ -3,12 +3,13 @@
 		<view class="content1">
 			<view v-if="this.thisIndex === 0">
 				以下是对皮肤N中性，D干性，O油性，P色素，S敏感，W皱纹，SR光敏反应的测试，请如实回答，我们会给出相应的专业的皮肤护理及产品搭配方案。
+				以下是对皮肤N中性，D干性，O油性，P色素，S敏感，W皱纹，SR光敏反应的测试，请如实回答，我们会给出相应的专业的皮肤护理及产品搭配方案。
+				以下是对皮肤N中性，D干性，O油性，P色素，S敏感，W皱纹，SR光敏反应的测试，请如实回答，我们会给出相应的专业的皮肤护理及产品搭配方案。
 			</view>
 		</view>
 		<view class="text5">
 			<view class="rogress bar">
-				<view class="text">
-					{{pageIndex}}
+				<view class="text">{{pageIndex}}
 				</view>
 				<view class="jump">
 					<view class="" @click="jump">
